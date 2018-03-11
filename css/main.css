@@ -1,0 +1,54 @@
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+
+     box-sizing: border-box; /* IE */
+
+     text-align: center;
+
+     color: white;
+
+     font-family: 'Finger Paint', cursive;
+}
+body{
+  background-color: #2E2E2E;
+}
+
+button{
+  height: 70px;
+  background-image: url(../logo.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+}
+
+header{
+  width: 100%;
+  height: 300px;
+  background-image: url(../wu-bee.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #FFF429;
+}
+
+input{
+  border: 10px solid #FFF429;
+  border-radius: 10px;
+  height: 75px;
+  background-color: #2E2E2E;
+  font-size: 25px;
+}
+
+section{
+  margin-top: 10px;
+}
+
+footer{
+  height: 100px;
+  clear: both;
+}
+
+#generated{
+  font-size: 25px;
+}
