@@ -1,4 +1,4 @@
-![WU TANG](wu-tang-name-gen/screenshot.png)
+![WU TANG](/screenshot.png)
 
 
 # Wu Tang Fortune generator
